@@ -8,7 +8,8 @@ Obviously it doesn't exist yet.
 ```bash
 $ dfm init # creates empty dotfile repo
 $ dfm sync # updates remote repo with local changes
-$ dfm fetch # pulls and symlinks to the right place
+$ dfm fetch # pull a repo and deploy it
+$ dfn deploy # deploy your current changes to your system
 ```
 
 ## Project goals
